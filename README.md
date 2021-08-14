@@ -7,12 +7,8 @@ AboutMe = {
     Languages : [
         "Python", "JavaScript", "HTML", "CSS", "C#"
     ],
-    Technologies : [
-        "React.js", "Angular", "TypeScript", "Node.js", "Django", "Flask",
-        "Styles frameworks", "etc"
-    ],
     Hobbies   : [
-        "Playing volleyball and futbol", "Listen Rock & Roll", "Developing useful tools",
+        "Playing volleyball and futbol", "Listen Rock & Roll", "Coding",
         "Hang out with friends"
     ],
 }
