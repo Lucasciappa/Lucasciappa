@@ -7,7 +7,7 @@ AboutMe = {
     Languages : [
         "Python", "JavaScript", "HTML", "CSS", "C#"
     ],
-    Stack : ["MEAN", "MERN", "Django"]
+    Stack : ["MEAN", "MERN", "Django"],
     Hobbies   : [
         "Playing volleyball and futbol", "Listen Rock & Roll", "Coding",
         "Hang out with friends"
