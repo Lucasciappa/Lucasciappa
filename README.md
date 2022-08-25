@@ -7,12 +7,15 @@
 ```python
 AboutMe = {
     Name : "Lucas Ciapparelli",
-    Age : 24,
+    Age : 25,
     Pronouns : "He/Him",
     Languages : [
-        "Python", "JavaScript", "HTML", "CSS"
+        "JavaScript", "Python", "PHP"
     ],
-    Stack : ["MEAN", "MERN", "Django"],
+    Tecnologies : [
+        "React.js", "Angular", "Next.js", "Node.js", "MongoDB", "TypeScript",
+        "Tailwind", "Angular", "PHP"
+    ],
     Hobbies : [
         "Playing volleyball and futbol", "Listen Rock & Roll", "Coding",
         "Hang out with friends"
